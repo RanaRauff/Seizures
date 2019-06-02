@@ -1,12 +1,12 @@
 # Seizures
 detection of the epileptic seizures on the given dataset using machine learning by extraction of PyEEG dataset and flask web farmework.<br>
 Employed the following ML algorithms:-
-         -Nearest Neighbors 
-         -SVM
-         -Decision Tree
-         -Random Forest
-         -AdaBoost
-         -Naive Bayes-
+         - Nearest Neighbors 
+         - SVM
+         - Decision Tree
+         - Random Forest
+         - AdaBoost
+         - Naive Bayes-
 
 <br>
 
