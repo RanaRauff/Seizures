@@ -18,9 +18,10 @@ detection of the epileptic seizures on the given dataset using machine learning 
 ### Screenshots of the app<br>
 
 ##### Main Dashboard:
-        synopsis of all algorithms implemented along with the warning on the most probable subjects to be epileptic as prognosticated by the corresponding algorithms.<br>
+synopsis of all algorithms implemented along with the warning on the most probable subjects to be epileptic as prognosticated by the corresponding algorithms.<br>
 ![Screenshot (63)](https://user-images.githubusercontent.com/42863227/58760326-df800680-8553-11e9-8bef-25e9121dda97.png)
 <br>
+##### Analyzation with multiple algorithms:<br>
 ![Screenshot (65)](https://user-images.githubusercontent.com/42863227/58760330-ed358c00-8553-11e9-8993-5fb6dc499763.png)
-<br>
+<br><br>
 ![Screenshot (64)](https://user-images.githubusercontent.com/42863227/58760331-ed358c00-8553-11e9-8d02-52b324b6e547.png)
