@@ -27,7 +27,9 @@ synopsis of all algorithms implemented along with the warning on the most probab
 ![Screenshot (64)](https://user-images.githubusercontent.com/42863227/58760331-ed358c00-8553-11e9-8d02-52b324b6e547.png)
 ---
 <br>
+
 ### How do I run this project locally?
+
 1. Clone the repository:<br />
 `git clone https://github.com/RanaRauff/Seizures.git`
 2. Run the server:<br />
