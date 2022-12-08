@@ -1,6 +1,6 @@
 absl-py==0.4.1
 astor==0.7.1
-certifi==2018.8.24
+certifi==2022.12.7
 Flask==1.0.2
 Keras==2.2.2
 Jinja2>=2.10.1
